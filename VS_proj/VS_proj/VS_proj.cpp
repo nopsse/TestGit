@@ -2,11 +2,13 @@
 //
 
 #include "stdafx.h"
+#include <conio.h>
 
 
 int _tmain(int argc, _TCHAR* argv[])
 {
-	printf( "하이" );
+	printf( "하이2" );
+	getch();
 	return 0;
 }
 
